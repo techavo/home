@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Techavo Solutions
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+A Tech compnay based in Kerala, India providing tech solutions and Hands on training on Technologies and Programming languages.
