@@ -8,5 +8,6 @@ intro_image_hide_on_mobile: true
 ---
 
 # Techavo Solutions
+<br>
 
-A Tech compnay based in Kerala, India providing tech solutions and Hands on training on Technologies and Programming languages.
+A Tech company based in Kerala, India providing tech solutions and Hands on training on Technologies and Programming languages.
